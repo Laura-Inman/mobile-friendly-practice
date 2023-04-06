@@ -33,18 +33,18 @@ footer p {
 
 @media screen and (min-width: 480px) {
     body {
-        background-color: lavender;
+        background-color: lightcoral;
     }
 }
 
 @media screen and (min-width: 786px) {
     body {
-        background-color: lightpink;
+        background-color: yellow;
     }
 }
 
 @media screen and (min-width: 1024px) {
     body {
-        background-color: lightblue;
+        background-color: plum;
     }
 }
