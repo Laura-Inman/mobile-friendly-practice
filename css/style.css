@@ -1,0 +1,26 @@
+header {
+    position: relative;
+}
+
+header h1 {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    }
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.center-align {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
