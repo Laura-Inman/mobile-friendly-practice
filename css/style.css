@@ -14,6 +14,11 @@ main {
     margin: 0 auto;
 }
 
+.image {
+    margin: 0 auto;
+    text-align: center;
+}
+
 img {
     width: 25%;
     height: auto;
@@ -35,16 +40,28 @@ footer p {
     body {
         background-color: lightcoral;
     }
+
+    h1 {
+        color: coral;
+    }
 }
 
 @media screen and (min-width: 786px) {
     body {
         background-color: yellow;
     }
+
+    h1 {
+        color: yellow;
+    }
 }
 
 @media screen and (min-width: 1024px) {
     body {
         background-color: plum;
+    }
+
+    h1 {
+        color: plum;
     }
 }
